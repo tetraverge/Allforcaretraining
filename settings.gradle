@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Allfor care training"
